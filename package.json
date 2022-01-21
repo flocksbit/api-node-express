@@ -1,0 +1,11 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "api de teste node",
+  "main": "index.js",
+  "author": "Matheus Monteiro",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
