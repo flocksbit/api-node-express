@@ -5,7 +5,14 @@
   "main": "index.js",
   "author": "Matheus Monteiro",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server/server.js"
+  },
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "express-group-routes": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
